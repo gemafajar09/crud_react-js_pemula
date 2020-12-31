@@ -1,0 +1,14 @@
+# printah untuk membuat project baru
+- npx create-react-app "masukan nama project yang akan dibuat"
+
+# buka project yang tadi telah dibuat dengan perintah
+- cd "nama project yang tadi dibuat"
+
+# jalankan project yang telah dibuat dengan perintah
+- npm start
+
+# library yang akan digunakan pada react js untuk membuat router dan api
+ *note : install library sesuai dengan kebutuhan project saja
+- npm install axios
+- npm install react-router-dom
+
